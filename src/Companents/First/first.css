@@ -1,0 +1,92 @@
+.first-obsh{
+    max-width: 1550px;
+    background-color: #0A013B;
+    height: 600px;
+    margin: auto;
+    font-family: 'Inter';
+}
+
+.first-katta{
+    max-width: 1250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    gap: 170px;
+}
+
+.first-left{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.first-title{
+    color: white;
+}
+.first-title h3{
+    font-weight: 380;
+    font-size: 25px;
+    margin-top: 13px;
+}
+.first-title h2{
+    font-weight: 550;
+    font-size: 41px;
+}
+.first-title-2 h5{
+    color: white;
+    font-weight: 400;
+}
+.first-title-2 span{
+    color: rgba(140, 48, 245, 1);
+}
+.first-right{
+    margin-top: 50px;
+}
+.first-input{
+    display: flex;
+    gap: 10px;
+}
+.but1{
+    width: 190px;
+    height: 45px;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    background-color: rgba(140, 48, 245, 1);
+    color: white;
+    cursor: pointer;
+}
+.but1:active{
+    width: 190px;
+    height: 45px;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    background-color: rgba(140, 48, 245, 0.177);
+    color: white;
+    cursor: pointer;
+}
+.but2 {
+    width: 190px;
+    height: 45px;
+    border: 1px solid rgba(255, 255, 255, 1);
+    outline: none;
+    border-radius: 6px;
+    background-color: #0d014e;
+    color: white;
+    cursor: pointer;
+}
+.but2:active{
+    width: 190px;
+    height: 45px;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    background-color: rgba(140, 48, 245, 0.237);
+    color: white;
+    cursor: pointer;
+}
+.divdiv3{
+    width: 100%;
+    height: 50px;
+    background-color: #0A013B;;
+}

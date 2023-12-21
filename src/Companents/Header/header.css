@@ -1,0 +1,32 @@
+.header-obsh{
+    max-width: 1550px;
+    width: 100%;
+    background-color: #0A013B;
+    height: 80px;
+    margin: auto;
+    font-family: 'Inter';
+    position: fixed;
+    z-index: 4;
+}
+
+.header-katta{
+    max-width: 1250px;
+    height: 80px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+
+}
+
+.header-middle nav{
+    display: flex;
+    list-style: none;
+    gap: 35px;
+    color: white;
+    cursor: pointer;
+}
+.header-right h5{
+    color: white;
+    font-weight: 400;
+}

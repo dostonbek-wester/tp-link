@@ -1,0 +1,206 @@
+.four-obsh{
+    max-width: 1550px;
+    background-color: #170360;
+    height: 900px;
+    margin: auto;
+    font-family: 'Inter';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.four-katta{
+    width: 1250px;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px;
+    gap: 20px;
+}
+.four-box1{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.four-box1 h3{
+    font-size: 35px;
+    font-weight: 500;
+}
+.four-box1 h4{
+    font-size: 23px;
+    font-weight: 300;
+    text-align: center;
+}
+.four-box2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 50px;
+}
+.four-box-left{
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+}
+.left-top{
+    width: 800px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    
+}
+.top-left{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    color: white;
+}
+.top-left h5{
+    font-weight: 500;
+}
+.top-right h5{
+    font-weight: 500;
+}
+.top-left input{
+    width: 260px;
+    height: 45px;
+    outline: none;
+    border: 1px solid rgba(161, 161, 161, 1);
+    background: none;
+    border-radius: 5px;
+    margin-top: 4px;
+    padding: 10px;
+    color: white;
+}
+.top-left input::placeholder{
+    color: white;
+    font-weight: 200;
+}
+.top-right input::placeholder{
+    color: white;
+    font-weight: 200;
+}
+.top-right{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    color: white;
+}
+.top-right input{
+    width: 260px;
+    height: 45px;
+    outline: none;
+    border: 1px solid rgba(161, 161, 161, 1);
+    background: none;
+    border-radius: 5px;
+    margin-top: 4px;
+    padding: 10px;
+    color: white;
+}
+.left-bottom{
+    display: flex;
+    justify-content: center;
+}
+.bottom{
+    background-color: #20066A;
+    width: 800px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+.bottom h5{
+    font-weight: 200;
+}
+
+
+.four-box-right{
+    width: 350px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgba(36, 2, 90, 1);
+}
+
+.bir{
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+.ikki{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    text-align: end;
+}
+.bir h4{
+    font-size: 21px;
+    text-align: center ;
+}
+.bir h5{
+    font-weight: 300;
+}
+.ikki input{
+    width: 280px;
+    height: 50px;
+    border-radius: 7px;
+    border: 1px solid rgba(157, 84, 240, 1);
+    background: none;
+    outline: none;
+    color: white;
+    padding: 5  px;
+}
+.ikki h5{
+    font-weight: 200;
+    font-size: 12px;
+    color: white;
+
+}
+.ikki input::placeholder{
+    color: rgba(166, 166, 166, 1);
+}
+.uch button{
+    width: 280px;
+    height: 50px;
+    background-color: rgba(157, 84, 240, 1);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 25px;
+}
+.uch button:active{
+    width: 280px;
+    height: 50px;
+    background-color: rgba(157, 84, 240, 0.127);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 25px;
+}

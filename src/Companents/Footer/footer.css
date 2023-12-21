@@ -1,0 +1,36 @@
+.footer-obsh{
+    max-width: 1550px;
+    background-color: rgba(8,3,55,1);
+    height: 125px;
+    margin: auto;
+    font-family: 'Inter';
+    display: flex;
+}
+.footer-katta{
+    width: 1250px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-left{
+    display: flex;
+    gap: 20px;
+}
+.footer-middle{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.footer-right{
+    color: white;
+}
+.footer-middle h4{
+    font-weight: 400;
+}
+.footer-right h4{
+    font-size: 17px;
+}
+.img2{
+    margin-top: 30px;
+}

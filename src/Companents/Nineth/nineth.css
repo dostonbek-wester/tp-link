@@ -1,0 +1,88 @@
+.Nineth-main{
+    width: 100%;
+    max-width: 1550px;
+    background-color:#170360 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+.fourth-box{
+    width: 60%;
+    height: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;   
+    color: white; 
+    font-size: 22px;
+    font-weight: 300;
+    padding: 60px;
+}
+.divdiv2{
+    width: 100%;
+    height: 100px;
+    background-color: #0A013B;
+}
+.fourth-box h1{
+    font-weight: 400;
+    font-size: 37px;
+}
+.fifth-box{
+    width: 100%;
+    height: 500px;
+    background-color: #0A013B;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.box2{
+    width: 30%;
+    height: 90%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    position: relative;
+
+}
+.text2{
+    width: 60%;
+    font-size: 12px;
+    font-weight: 300;
+    color: white;
+}
+.text2 h1{
+    font-size: 20px;
+    font-weight: 300;
+}
+.box2 img{
+    position: absolute;
+}
+.box2 .box2-rasm6{
+    width: 85%;
+    bottom: 0;
+}
+.box2 .box2-rasm5{
+    width: 90%;
+    bottom: 0;
+}
+.box2 .box2-rasm4{
+    width: 95%;
+    bottom: 0;
+}
+.box2 .box2-rasm3{
+    width: 100%;
+    bottom: 0;
+}
+.box2 .box2-rasm2{
+    width: 80%;
+    bottom: 0;
+}
+
+

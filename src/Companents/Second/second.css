@@ -1,0 +1,59 @@
+.second-obsh{
+    max-width: 1550px;
+    background-color: #170360;
+    height: 600px;
+    margin: auto;
+    font-family: 'Inter';
+    
+}
+
+.second-katta{
+    max-width: 1250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+
+.second-left{
+    margin-top: 65px;
+}
+.second-right{
+    gap: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    color: white;
+}
+.right-title1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.right-title1 h3{
+    font-size: 25px;
+    font-weight: 500;
+}
+.right-title1 h4{
+    font-weight: 300;
+    justify-content: end;
+    text-align: end;
+    width: 320px;
+}
+.right-title2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.right-title2 h3{
+    font-size: 25px;
+    font-weight: 500;
+}
+.right-title2 h4{
+    font-weight: 300;
+    justify-content: end;
+    text-align: end;
+    width: 300px;
+}

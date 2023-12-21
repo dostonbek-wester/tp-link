@@ -1,0 +1,58 @@
+.contact-main{
+    width: 100%;
+    max-width: 1550px;
+    height: 600px;
+    background-color:#170360 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 60px;
+
+}
+.main{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+   
+
+}
+.abc{
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+}
+
+.abc h1{
+    font-weight: 300;
+}
+.abc i{
+    color: blueviolet;
+}
+.location{
+    width: 55%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}

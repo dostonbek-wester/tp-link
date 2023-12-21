@@ -1,0 +1,39 @@
+.thirt-obsh{
+    max-width: 1550px;
+    background-color: #0A013B;
+    height: 400px;
+    margin: auto;
+    font-family: 'Inter';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.third-katta{
+    max-width: 1250px;
+    width: 1250px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.third-left{
+    width: 700px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 2px;
+}
+.third-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.third-left h3{
+    font-size: 30px;
+    font-weight: 500;
+}
+.third-left h4{
+    font-weight: 300;
+    text-align: start;
+}
